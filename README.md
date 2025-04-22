@@ -18,14 +18,17 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
 ## 📊 Mis estadísticas de GitHub
 
-![Andrés GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandrez12&show_icons=true&theme=tokyonight)
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Sandrez12&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandrez12&layout=compact&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandrez12&theme=dracula)
+<!-- Stats básicos -->
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Sandrez12&show_icons=true&theme=tokyonight&hide=prs,issues)
+
+<!-- Lenguajes más usados -->
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandrez12&layout=compact&theme=tokyonight)
+
+<!-- Gráfico de actividad -->
+![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=Sandrez12&theme=tokyo-night)
+
 
 
 > ⚠️ **Nota:** Reemplaza `andresjoyab` por tu nombre de usuario real de GitHub si es diferente.
