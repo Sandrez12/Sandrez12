@@ -21,7 +21,7 @@
 ## 📊 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Sandrez12&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandrez12b&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandrez12&layout=compact&theme=radical)
 
 > ⚠️ **Nota:** Reemplaza `andresjoyab` por tu nombre de usuario real de GitHub si es diferente.
 
