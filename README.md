@@ -56,8 +56,7 @@ Desde pequeño me apasiona la tecnología. Me gusta construir cosas útiles, res
 
 ## 📜 Certificaciones
 
-- ✅ Curso Profesional de Laravel - Platzi
-- ✅ Introducción a Kotlin - Udemy
+- Coming soon
 
 ---
 
