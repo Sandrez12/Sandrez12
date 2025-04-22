@@ -22,10 +22,10 @@
 
 ## 📊 Mis estadísticas de GitHub
 
-![Andrés GitHub Stats](https://github-readme-stats.vercel.app/api?username=andresjoyab&show_icons=true&theme=tokyonight)
+![Andrés GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandrez12&show_icons=true&theme=tokyonight)
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Sandrez12&show_icons=true&theme=radical)  
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandrez12&layout=compact&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andresjoyab&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandrez12&theme=dracula)
 
 
 > ⚠️ **Nota:** Reemplaza `andresjoyab` por tu nombre de usuario real de GitHub si es diferente.
