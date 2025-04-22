@@ -70,6 +70,10 @@ Desde pequeño me apasiona la tecnología. Me gusta construir cosas útiles, res
 ![Visitors](https://komarev.com/ghpvc/?username=andresjoyab&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
+<!-- GitHub Activity Graph -->
+[![Andrés's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andresjoyab&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 ## 🌐 Conéctate conmigo
 
