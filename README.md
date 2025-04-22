@@ -29,10 +29,6 @@
 <!-- Gráfico de actividad -->
 ![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=Sandrez12&theme=tokyo-night)
 
-
-
-> ⚠️ **Nota:** Reemplaza `andresjoyab` por tu nombre de usuario real de GitHub si es diferente.
-
 ---
 
 ## 🚀 Proyectos destacados
