@@ -27,6 +27,50 @@
 
 ---
 
+## 🚀 Proyectos destacados
+
+
+- 📱 [Tienda Virtual AndyTec](https://github.com/Sandrez12/AndyTec.git)  
+  Tienda Virtual de productos gamers
+  _PHP • VS Studio code • Laravel • XAMPP_
+
+---
+
+## 🧠 Sobre mí
+Desde pequeño me apasiona la tecnología. Me gusta construir cosas útiles, resolver problemas con código y trabajar en equipo. Busco crecer como desarrollador fullstack y contribuir en proyectos de impacto.
+
+---
+
+## 💡 Fortalezas
+
+- Trabajo en equipo y colaboración
+- Resolución de problemas
+- Pensamiento lógico y analítico
+- Comunicación efectiva
+
+---
+
+## 📜 Certificaciones
+
+- ✅ Curso Profesional de Laravel - Platzi
+- ✅ Introducción a Kotlin - Udemy
+
+---
+
+## 🎬 Demo de proyecto
+
+![Demo](https://github.com/Sandrez12/AndyTec.git/blob/main/demo.gif)
+
+---
+
+📩 joya.andres23@gmail.com
+
+---
+
+![Visitors](https://komarev.com/ghpvc/?username=andresjoyab&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
 ## 🌐 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-joya-69a552357)
