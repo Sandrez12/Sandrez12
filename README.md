@@ -25,6 +25,12 @@
 
 <!-- Lenguajes más usados -->
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandrez12&layout=compact&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandrez12&layout=compact&theme=tokyonight)
+## 🧠 Lenguajes más usados
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandrez12&layout=donut&theme=tokyonight)
+
+
 
 <!-- Gráfico de actividad -->
 ![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=Sandrez12&theme=tokyo-night)
