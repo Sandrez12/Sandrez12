@@ -1,0 +1,34 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Todos los días a medianoche
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install git+https://github.com/platane/pacman-contribution-graph
+
+      - name: Generate pacman graph
+        run: |
+          pacman-graph --user Sandrez12 --output output/pacman-contribution-graph.svg
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/pacman-contribution-graph.svg
+          git commit -m "update pacman contribution graph" || echo "No changes to commit"
+          git push
