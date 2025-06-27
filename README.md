@@ -62,6 +62,15 @@ Tienda virtual de productos gamers
 
 ---
 
+<!-- Pacman Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandrez12/Sandrez12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandrez12/Sandrez12/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Sandrez12/Sandrez12/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## 📜 Certificaciones
 
 🛠 *En proceso... próximamente*
@@ -81,4 +90,3 @@ Tienda virtual de productos gamers
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sandrez12&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Profile views" />
 </div>
-
