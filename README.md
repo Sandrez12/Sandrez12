@@ -62,12 +62,9 @@ Tienda virtual de productos gamers
 
 ---
 
-<!-- Pacman Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandrez12/Sandrez12/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandrez12/Sandrez12/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Sandrez12/Sandrez12/output/pacman-contribution-graph.svg">
-</picture>
+## 📊 Gráfico de actividad
+
+![Actividad GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Sandrez12&theme=tokyo-night&hide_border=true)
 
 ---
 
