@@ -64,9 +64,10 @@ Tienda virtual de productos gamers
 
 ---
 
-## 🟡 Calendario de Contribuciones - Pacman
+## 🐍 Animación de Contribuciones
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/Sandrez12/Sandrez12/output/pacman-contribution-graph.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/Sandrez12/Sandrez12/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Sandrez12/Sandrez12/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
