@@ -60,11 +60,13 @@ Tienda virtual de productos gamers
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandrez12&locale=es&layout=compact&langs_count=10&theme=tokyonight&hide_border=false" height="160" alt="Top Languages" />
 </div>
 
+![Actividad GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Sandrez12&theme=tokyo-night&hide_border=true)
+
 ---
 
-## 📊 Gráfico de actividad
+## 🟡 Calendario de Contribuciones - Pacman
 
-![Actividad GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Sandrez12&theme=tokyo-night&hide_border=true)
+![Pacman Contribution Graph](https://raw.githubusercontent.com/Sandrez12/Sandrez12/output/pacman-contribution-graph.svg)
 
 ---
 
