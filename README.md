@@ -1,7 +1,7 @@
 <br clear="both" />
 
 <h1 align="center">👋 ¡Hola! Soy Andrés Felipe Joya Buitrago</h1>
-<h3 align="center">Ingeniero en Sistemas de Bucaramanga, Colombia</h3>
+<h3 align="center">Ingeniero en Sistemas y Desarrollador de Software de Bucaramanga, Colombia</h3>
 
 ---
 
@@ -61,12 +61,6 @@ Tienda virtual de productos gamers
 </div>
 
 ![Actividad GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Sandrez12&theme=tokyo-night&hide_border=true)
-
----
-
-## 🐍 Animación de Contribuciones
-
-![GitHub Snake](https://raw.githubusercontent.com/Sandrez12/Sandrez12/output/github-contribution-grid-snake.svg)
 
 ---
 
