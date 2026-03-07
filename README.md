@@ -5,12 +5,12 @@
 
 ---
 
-<p align="center">💡 Apasionado por la tecnología, el desarrollo web y móvil  
-<br>🚀 Siempre aprendiendo y buscando aportar con soluciones útiles</p>
+<p align="center">Apasionado por la tecnología, el desarrollo de software, y el avance tecnologico e innovacion.  
+<br>Siempre aprendiendo y buscando aportar con soluciones útiles</p>
 
 ---
 
-## 🛠 Tecnologías que manejo
+## Mis Tecnologías
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
@@ -29,31 +29,31 @@
 
 ---
 
-## 📌 Sobre mí
+## Sobre mí
 
 Desde pequeño me apasiona la tecnología. Me encanta construir herramientas útiles, resolver problemas mediante el código y colaborar en proyectos de impacto.  
 Busco desarrollarme como **desarrollador fullstack**, creciendo constantemente tanto en lo técnico como en lo humano.
 
 ---
 
-## 💡 Fortalezas
+## Fortalezas
 
-- 🧠 Pensamiento lógico y resolución de problemas  
-- 🤝 Trabajo en equipo y colaboración  
-- 📢 Comunicación efectiva  
-- 📈 Adaptabilidad y aprendizaje continuo
+-  Pensamiento lógico y resolución de problemas  
+-  Trabajo en equipo y colaboración  
+-  Comunicación efectiva  
+-  Adaptabilidad y aprendizaje continuo
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
-### 🔹 [Tienda Virtual AndyTec](https://github.com/Sandrez12/AndyTec.git)  
+### [Tienda Virtual AndyTec](https://github.com/Sandrez12/AndyTec.git)  
 Tienda virtual de productos gamers  
 **Tecnologías:** Laravel, PHP, Bootstrap, MySQL, XAMPP
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sandrez12&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=es&hide_border=false" height="160" alt="GitHub Stats" />
@@ -64,19 +64,19 @@ Tienda virtual de productos gamers
 
 ---
 
-## 📜 Certificaciones
+## Certificaciones
 
 🛠 *En proceso... próximamente*
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 ¿Quieres hablar sobre tecnología, colaborar o simplemente saludar?
 
-- 📧 **Correo:** joya.andres23@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/andres-joya-69a552357](https://www.linkedin.com/in/andres-joya-69a552357)  
-- 🌐 **Portafolio:** [*Portafolio-Andres-Felipe-Joya-Buitrago*](https://portafolio-andres-felipe-joya-buitrago.onrender.com)
+- **Correo:** joya.andres23@gmail.com  
+- **LinkedIn:** [linkedin.com/in/andres-joya-69a552357](https://www.linkedin.com/in/andres-joya-69a552357)  
+- **Portafolio:** [*Portafolio-Andres-Felipe-Joya-Buitrago*](https://portafolio-andres-felipe-joya-buitrago.onrender.com)
 
 ---
 
