@@ -45,6 +45,12 @@ Busco desarrollarme como **desarrollador fullstack**, creciendo constantemente t
 
 **Portafolio:** [*Portafolio-Andres-Felipe-Joya-Buitrago*](https://portafolio-andres-felipe-joya-buitrago.onrender.com)
 
+## Estadisticas 
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Idiomas principales](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Rachas de GitHub](https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=radical)](https://git.io/streak-stats)
+
 ## Contacto
 
 ¿Quieres hablar sobre tecnología, colaborar o simplemente saludar?
