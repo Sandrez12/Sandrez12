@@ -45,12 +45,24 @@ Busco desarrollarme como **desarrollador fullstack**, creciendo constantemente t
 
 **Portafolio:** [*Portafolio-Andres-Felipe-Joya-Buitrago*](https://portafolio-andres-felipe-joya-buitrago.onrender.com)
 
+---
+
 ## Estadisticas 
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Sandrez12&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Idiomas principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandrez&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Rachas de GitHub](https://github-readme-streak-stats.herokuapp.com?user=Sandrez12&theme=radical)](https://git.io/streak-stats)
-![Snake](https://githubusercontent.com)
+
+---
+
+### Contribuciones (Snake Game)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="GitHub Snake" src="https://githubusercontent.com">
+</picture>
+
+---
 
 ## Contacto
 
