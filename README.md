@@ -1,16 +1,14 @@
 <br clear="both" />
 
-<h1 align="center">👋 ¡Hola! Soy Andrés Felipe Joya Buitrago</h1>
+<h1 align="center">¡Hola! Soy Andrés Felipe Joya Buitrago</h1>
 <h3 align="center">Ingeniero en Sistemas y Desarrollador de Software de Bucaramanga, Colombia</h3>
-
----
 
 <p align="center">Apasionado por la tecnología, el desarrollo de software, y el avance tecnologico e innovacion.  
 <br>Siempre aprendiendo y buscando aportar con soluciones útiles</p>
 
 ---
 
-## Mis Tecnologías
+## Tecnologías Trabajadas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
@@ -31,7 +29,7 @@
 
 ## Sobre mí
 
-Desde pequeño me apasiona la tecnología. Me encanta construir herramientas útiles, resolver problemas mediante el código y colaborar en proyectos de impacto.  
+Soy un apasionado de la tecnologias y sus avances, asi como del desarrollo web y de como estos afectan la vida de las personas en el dia a dia. Apasionado por la construccion de herramientas y tecnologias que puedan resultar útiles para las personas, resolver problemas de codigo mediante analisis y desarrrollo y colaborar en proyectos de impacto.  
 Busco desarrollarme como **desarrollador fullstack**, creciendo constantemente tanto en lo técnico como en lo humano.
 
 ---
@@ -43,32 +41,9 @@ Busco desarrollarme como **desarrollador fullstack**, creciendo constantemente t
 -  Comunicación efectiva  
 -  Adaptabilidad y aprendizaje continuo
 
----
+## Portafolio
 
-## Proyectos destacados
-
-### [Tienda Virtual AndyTec](https://github.com/Sandrez12/AndyTec.git)  
-Tienda virtual de productos gamers  
-**Tecnologías:** Laravel, PHP, Bootstrap, MySQL, XAMPP
-
----
-
-## Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandrez12&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=es&hide_border=false" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandrez12&locale=es&layout=compact&langs_count=10&theme=tokyonight&hide_border=false" height="160" alt="Top Languages" />
-</div>
-
-![Actividad GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Sandrez12&theme=tokyo-night&hide_border=true)
-
----
-
-## Certificaciones
-
-🛠 *En proceso... próximamente*
-
----
+**Portafolio:** [*Portafolio-Andres-Felipe-Joya-Buitrago*](https://portafolio-andres-felipe-joya-buitrago.onrender.com)
 
 ## Contacto
 
@@ -76,7 +51,6 @@ Tienda virtual de productos gamers
 
 - **Correo:** joya.andres23@gmail.com  
 - **LinkedIn:** [linkedin.com/in/andres-joya-69a552357](https://www.linkedin.com/in/andres-joya-69a552357)  
-- **Portafolio:** [*Portafolio-Andres-Felipe-Joya-Buitrago*](https://portafolio-andres-felipe-joya-buitrago.onrender.com)
 
 ---
 
