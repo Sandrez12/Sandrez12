@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 110" width="900" height="110" role="img" aria-label="Gracias por visitar">
+<rect width="900" height="110" rx="16" fill="#0d1f20"/>
+<path d="M0 90 C150 40 300 120 450 80 C600 40 750 120 900 70 L900 110 L0 110 Z" fill="#8f2b2b" opacity=".6">
+<animate attributeName="d" dur="8s" repeatCount="indefinite"
+ values="M0 90 C150 40 300 120 450 80 C600 40 750 120 900 70 L900 110 L0 110 Z;M0 70 C150 110 300 50 450 90 C600 120 750 50 900 90 L900 110 L0 110 Z;M0 90 C150 40 300 120 450 80 C600 40 750 120 900 70 L900 110 L0 110 Z"/></path>
+<path d="M0 100 C200 70 350 110 520 90 C700 70 800 100 900 90 L900 110 L0 110 Z" fill="#d64545" opacity=".8"/>
+<text x="450" y="46" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="24" font-weight="800" fill="#f4ece6">Gracias por pasar por mi perfil</text>
+<text x="450" y="70" text-anchor="middle" font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="14" fill="#9db7b4">Hecho con cariño, café y bastante código</text>
+</svg>

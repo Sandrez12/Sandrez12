@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 54" width="400" height="54" role="img" aria-label="joya.andres23@gmail.com">
+<rect width="400" height="54" rx="12" fill="#12292a"/>
+<rect x="0" y="0" width="5" height="54" rx="2.5" fill="#d64545"/>
+<circle cx="34" cy="27" r="15" fill="#d64545"/>
+<g transform="translate(24,17) scale(0.83)"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" fill="#0d1f20"/></g>
+<text x="62" y="33" font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="16" fill="#f4ece6">joya.andres23@gmail.com</text>
+</svg>

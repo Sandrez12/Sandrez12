@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 236" width="520" height="236" role="img" aria-label="Quién soy">
+<rect width="520" height="236" rx="16" fill="#12292a"/>
+<text x="26" y="42" font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="14" fill="#9db7b4" letter-spacing="2">SOY UN INGENIERO EN FORMACIÓN</text>
+<text x="26" y="80" font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="16.5" fill="#f4ece6" >Soy estudiante de Ingeniería en Sistemas y desarrollador</text><text x="26" y="108" font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="16.5" fill="#f4ece6" >de software. Me apasionan las tecnologías y su impacto en</text><text x="26" y="136" font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="16.5" fill="#f4ece6" >la vida diaria: construyo herramientas útiles, resuelvo</text><text x="26" y="164" font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="16.5" fill="#f4ece6" >problemas con análisis y colaboro en proyectos de impacto.</text><text x="26" y="192" font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="16.5" fill="#e05a5a" font-weight="700">Mi meta: crecer como desarrollador fullstack.</text>
+<rect x="26" y="206" width="90" height="5" rx="2.5" fill="#d64545"/>
+</svg>

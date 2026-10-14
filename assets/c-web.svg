@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 54" width="400" height="54" role="img" aria-label="Portafolio web (Render)">
+<rect width="400" height="54" rx="12" fill="#12292a"/>
+<rect x="0" y="0" width="5" height="54" rx="2.5" fill="#d64545"/>
+<circle cx="34" cy="27" r="15" fill="#d64545"/>
+<circle cx="34" cy="27" r="8" fill="none" stroke="#0d1f20" stroke-width="2"/><path d="M26 27 H42 M34 19 C30 24 30 30 34 35 M34 19 C38 24 38 30 34 35" fill="none" stroke="#0d1f20" stroke-width="1.6"/>
+<text x="62" y="33" font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="16" fill="#f4ece6">Portafolio web (Render)</text>
+</svg>

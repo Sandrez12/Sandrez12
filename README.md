@@ -1,57 +1,43 @@
-<br clear="both" />
-
-<h1 align="center">¡Hola! Soy Andrés Felipe Joya Buitrago</h1>
-<h3 align="center">Ingeniero en Sistemas y Desarrollador de Software de Bucaramanga, Colombia</h3>
-
-<p align="center">Apasionado por la tecnología, el desarrollo de software, y el avance tecnológico e innovación.  
-<br>Siempre aprendiendo y buscando aportar con soluciones útiles</p>
-
----
-
-## Tecnologías Trabajadas
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity" />
+
+<img src="assets/hero.svg" alt="Portfolio · Andrés Felipe Joya Buitrago" width="100%" />
+
 </div>
 
----
+<br>
 
-## Sobre mí
+<div align="center"><img src="assets/h-quien.svg" alt="¿quién soy?" width="100%" /></div>
 
-Soy un apasionado de las tecnologías y sus avances, así como del desarrollo web y de cómo estos afectan la vida de las personas en el día a día. Apasionado por la construcción de herramientas y tecnologías que puedan resultar útiles para las personas, resolver problemas de código mediante análisis y desarrollo y colaborar en proyectos de impacto.  
-Busco desarrollarme como **desarrollador fullstack**, creciendo constantemente tanto en lo técnico como en lo humano.
+<table align="center">
+  <tr>
+    <td valign="middle"><img src="https://github.com/Sandrez12.png?size=240" alt="Andrés Felipe Joya Buitrago" width="170" /></td>
+    <td valign="middle"><img src="assets/about.svg" alt="Sobre mí" width="420" /></td>
+    <td valign="middle"><img src="assets/strengths.svg" alt="Fortalezas" width="250" /></td>
+  </tr>
+</table>
 
----
+<div align="center"><img src="assets/h-trayectoria.svg" alt="educación / trayectoria" width="100%" /></div>
 
-## Fortalezas
+<table align="center">
+  <tr>
+    <td valign="top">
+      <a href="mailto:joya.andres23@gmail.com"><img src="assets/c-mail.svg" alt="Correo" width="320" /></a><br>
+      <a href="https://github.com/Sandrez12"><img src="assets/c-github.svg" alt="GitHub" width="320" /></a><br>
+      <a href="https://www.linkedin.com/in/andres-joya-69a552357"><img src="assets/c-linkedin.svg" alt="LinkedIn" width="320" /></a><br>
+      <a href="https://portafolio-andres-felipe-joya-buitrago.onrender.com"><img src="assets/c-web.svg" alt="Portafolio web" width="320" /></a>
+      <br><img src="assets/languages.svg" alt="Idiomas: español nativo, inglés C1, portugués iniciando" width="320" />
+    </td>
+    <td valign="top"><img src="assets/timeline.svg" alt="Educación y trayectoria" width="500" /></td>
+  </tr>
+</table>
 
--  Pensamiento lógico y resolución de problemas  
--  Trabajo en equipo y colaboración  
--  Comunicación efectiva  
--  Adaptabilidad y aprendizaje continuo
+<div align="center"><img src="assets/h-skills.svg" alt="habilidades" width="100%" /></div>
 
-## Proyectos destacados
+<div align="center"><img src="assets/skills.svg" alt="Tecnologías: HTML, CSS, JavaScript, TypeScript, React, Tailwind, PHP, Laravel, Python, FastAPI, PyTorch, Java, Kotlin, Android, C#, Unity, MySQL, PostgreSQL, Supabase, Docker, Git, GitHub, Node.js" width="100%" /></div>
+
+<br>
+
+<div align="center"><img src="assets/h-proyectos.svg" alt="proyectos destacados" width="100%" /></div>
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -62,39 +48,31 @@ Busco desarrollarme como **desarrollador fullstack**, creciendo constantemente t
 | [**StockWise**](https://github.com/Sandrez12/StockWise) | Backend para gestionar inventarios (en desarrollo). | FastAPI, PostgreSQL, Docker |
 | [**Algoritmo genético de portafolio**](https://github.com/Sandrez12/Algoritmo-gen-tico-aplicado-a-un-portafolio-de-inversi-n) | Optimización de un portafolio de inversión con algoritmos genéticos y visualización de generaciones. | Python |
 
-## Portafolio
+<br>
 
-**Portafolio:** [*Portafolio-Andres-Felipe-Joya-Buitrago*](https://portafolio-andres-felipe-joya-buitrago.onrender.com)
+<div align="center"><img src="assets/h-stats.svg" alt="estadísticas" width="100%" /></div>
 
----
+<table align="center">
+  <tr>
+    <td><img src="assets/stats.svg" alt="Estadísticas de GitHub" width="410" /></td>
+    <td><img src="assets/langs.svg" alt="Lenguajes principales" width="410" /></td>
+  </tr>
+</table>
 
-## Estadísticas 
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Sandrez12&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Idiomas principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandrez12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Rachas de GitHub](https://github-readme-streak-stats.herokuapp.com?user=Sandrez12&theme=radical)](https://git.io/streak-stats)
-
----
-
-### Contribuciones (Snake Game)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandrez12/Sandrez12/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandrez12/Sandrez12/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sandrez12/Sandrez12/output/github-snake.svg">
-</picture>
-
----
-
-## Contacto
-
-¿Quieres hablar sobre tecnología, colaborar o simplemente saludar?
-
-- **Correo:** joya.andres23@gmail.com  
-- **LinkedIn:** [linkedin.com/in/andres-joya-69a552357](https://www.linkedin.com/in/andres-joya-69a552357)  
-
----
+<div align="center"><img src="assets/h-snake.svg" alt="contribuciones" width="100%" /></div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sandrez12&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Profile views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandrez12/Sandrez12/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandrez12/Sandrez12/output/github-snake.svg">
+    <img alt="Serpiente comiéndose mis contribuciones" src="https://raw.githubusercontent.com/Sandrez12/Sandrez12/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="assets/footer.svg" alt="Gracias por pasar por mi perfil" width="100%" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Sandrez12&label=Visitas%20al%20perfil&color=d64545&style=flat" alt="Visitas al perfil" />
 </div>
